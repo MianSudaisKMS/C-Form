@@ -1,0 +1,4 @@
+﻿  mainform.cpp
+D:\vs 2022\myform\myform\mainform.cpp(5,6): warning C4829: Possibly incorrect parameters to function main. Consider 'int main(Platform::Array<Platform::String^>^ argv)'
+  mainform.obj : MSIL module encountered; incremental linking is disabled for MSIL; performing full link
+  myform.vcxproj -> D:\vs 2022\myform\x64\Debug\myform.exe

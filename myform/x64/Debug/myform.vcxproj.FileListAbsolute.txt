@@ -1,0 +1,3 @@
+D:\vs 2022\myform\myform\x64\Debug\myform.vcxproj.AssemblyReference.cache
+D:\vs 2022\myform\myform\x64\Debug\myform.mainform.resources
+D:\vs 2022\myform\myform\x64\Debug\myform.vcxproj.GenerateResource.cache
